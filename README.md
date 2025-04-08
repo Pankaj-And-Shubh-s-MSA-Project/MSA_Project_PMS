@@ -1,7 +1,7 @@
 
 # Patient Management System (Microservices Architecture)
 
-A robust and scalable **Project Management System (PMS)** built with a **Microservices Architecture** using **Spring Boot**. This system simulates a healthcare workflow with separate services for handling patients, doctors, appointments, billing, and more.
+A robust and scalable **Patient Management System (PMS)** built with a **Microservices Architecture** using **Spring Boot**. This system simulates a healthcare workflow with separate services for handling patients, doctors, appointments, billing, and more.
 
 ---
 
